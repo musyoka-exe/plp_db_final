@@ -18,7 +18,7 @@ This project is a simple **Library Management System** built using MySQL. The sy
 4. Use SQL queries to interact with the system, such as retrieving books borrowed by a specific patron or adding new books.
 
 ## ERD:
-![ERD]([[link_to_erd_image_or_screenshot](https://github.com/musyoka-exe/plp_db_final/blob/main/erp.PNG)](https://github.com/musyoka-exe/plp_db_final/blob/main/erp.PNG)) <--- click to view erp diagram
+![ERD]([[[link_to_erd_image_or_screenshot](https://github.com/musyoka-exe/plp_db_final/blob/main/erp.PNG)](https://github.com/musyoka-exe/plp_db_final/blob/main/erp.PNG)](https://github.com/musyoka-exe/plp_db_final/blob/main/erp.PNG)) <--- click to view erp diagram
 
 ## Files:
 - **week8.sql**: SQL script to create the database and tables.
