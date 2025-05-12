@@ -23,4 +23,4 @@ This project is a simple **Library Management System** built using MySQL. The sy
 ## Files:
 - **week8.sql**: SQL script to create the database and tables.
 - **README.md**: Project description and setup instructions.
-
+- **erp.png**: The erp image
