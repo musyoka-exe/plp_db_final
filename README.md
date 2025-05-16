@@ -24,7 +24,7 @@ This project is a simple **Library Management System** built using MySQL. The sy
 You can view the Entity Relationship Diagram (ERD) for this project:
 
 
-![Entity Relationship Diagram](./erd.PNG)
+![Entity Relationship Diagram](./erp.PNG)
 
 ---
 ## Files:
